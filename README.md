@@ -3,7 +3,7 @@
 ![](https://img.shields.io/twitter/follow/ydev17?style=flat)
 ![](https://img.shields.io/github/followers/yd3v?style=flat)
 ![](https://komarev.com/ghpvc/?username=yd3v)
-![](https://img.shields.io/github/stars/blackbinn)
+![](https://img.shields.io/github/stars/yd3v)
 <br />
 <p align="left">
 I'm currently learning about C language,<br />but i have some experience with other languages, like <br />
