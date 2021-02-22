@@ -1,6 +1,6 @@
 # # Hello, my friend
 ### My name is thlsn <br />
-![](https://img.shields.io/twitter/follow/ydev17?style=flat)
+[![](https://img.shields.io/twitter/follow/ydev17?style=flat)](https://twitter.com/ydev17)
 ![](https://img.shields.io/github/followers/yd3v?style=flat)
 ![](https://komarev.com/ghpvc/?username=yd3v)
 ![](https://img.shields.io/github/stars/yd3v)
