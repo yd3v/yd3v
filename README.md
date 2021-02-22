@@ -9,5 +9,5 @@ I'm currently learning about C language,<br />but i have some experience with ot
 Javascript (Node, React, React-Native...), PHP, Python, and web delevopment in general.
   </p>
   
-<img src="https://cdn.dribbble.com/users/1396703/screenshots/3952983/pixel-goust-2.gif" width="200" align="right"/>
+<img src="https://cdn.dribbble.com/users/1396703/screenshots/3952983/pixel-goust-2.gif" style="float:right;" width="200" align="right"/>
 
