@@ -4,7 +4,7 @@
 ![](https://img.shields.io/github/followers/yd3v?style=social)
 ![](https://komarev.com/ghpvc/?username=yd3v)
 <br />
-<p align="right">
+<p align="left">
 I'm currently learning about C language,<br />but i have some experience with other languages, like<br />
 Javascript (Node, React, React-Native...), PHP, Python, and web delevopment in general.
 </p>
