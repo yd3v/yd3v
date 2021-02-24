@@ -13,6 +13,6 @@ Javascript (Node, React, React-Native...), PHP, Python, and web delevopment in g
 <img src="https://thumbs.gfycat.com/AchingUnsightlyHarrierhawk-small.gif" width="300" />
 <br />
 and... i like butterflies
-<img align="right" src="https://ibin.co/5soxkVVYWlcb.png" width="20px">
+<img src="https://ibin.co/5soxkVVYWlcb.png" width="50px">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yd3v&layout=compact&hide=html)
