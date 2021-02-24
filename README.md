@@ -11,7 +11,7 @@ Javascript (Node, React, React-Native...), PHP, Python, and web delevopment in g
   </p>
   
 <img src="https://thumbs.gfycat.com/AchingUnsightlyHarrierhawk-small.gif" width="300" />
-<br />
+
 > *and i like butterflies*
 
 <img src="https://ibin.co/5soxkVVYWlcb.png" width="50px">
