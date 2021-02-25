@@ -7,7 +7,7 @@
 <br />
 <p align="left">
 I'm currently learning about C language,<br />but i have some experience with other languages, like <br />
-Javascript (Node, React, React-Native...), PHP, Python, and web delevopment in general.
+Javascript (Node, React, React-Native...), PHP, Python, and web development in general.
   </p>
   
 <img src="https://thumbs.gfycat.com/AchingUnsightlyHarrierhawk-small.gif" width="300" />
