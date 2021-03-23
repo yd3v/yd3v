@@ -6,7 +6,7 @@
 ![](https://img.shields.io/github/stars/yd3v)
 <br />
 <p align="left">
-I'm currently learning about C language,<br />but i have some experience with other languages, like <br />
+I'm learning about C <br />but i have some experience with other languages, like <br />
 Javascript (Node, React, React-Native...), PHP, Python, and web development in general.
   </p>
   
