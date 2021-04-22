@@ -10,7 +10,7 @@ I'm learning about C <br />but i have some experience with other languages, like
 Javascript (Node, React, React-Native...), PHP, Python, and web development in general.
   </p>
   
-<img src="https://thumbs.gfycat.com/AchingUnsightlyHarrierhawk-small.gif" width="400" />
+<img src="https://thumbs.gfycat.com/AchingUnsightlyHarrierhawk-small.gif" width="600" />
 
 > *and i like butterflies*
 
