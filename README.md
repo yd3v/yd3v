@@ -14,6 +14,6 @@ Javascript (Node, React, React-Native...), PHP, Python, and web development in g
 
 > *and i like butterflies*
 
-<img src="https://cdn49.picsart.com/175614824004201.gif?" width="100px">
+<img src="https://cdn49.picsart.com/175614824004201.gif?" width="300px">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yd3v&layout=compact&hide=html)
