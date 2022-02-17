@@ -9,7 +9,7 @@
   I break systems, is it
 </p>
   
-<img src="https://thumbs.gfycat.com/AchingUnsightlyHarrierhawk-small.gif" width="600" />
+<img src="https://thumbs.gfycat.com/AchingUnsightlyHarrierhawk-small.gif" width="200" />
 
 > *and i like butterflies*
 
